@@ -1,0 +1,62 @@
+body {
+  background-color: #eeeeee;
+}
+
+h1 {
+  color: #616161;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h1, h2 {
+  font-family: 'Roboto Slab', serif;
+}
+
+a {
+  color: rgb(88, 172, 88);
+}
+
+a, p {
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+}
+
+#avatar {
+  width: 160px;
+  border-radius: 50%;
+}
+
+div {
+  background-color: white;
+  width: 800px;
+  margin: 16px auto;
+  text-align: center;
+  border-radius: 8px;
+  padding: 8px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.btn-green {
+  color: white;
+  background-color: rgb(88, 172, 88);
+  padding: 8px 16px;
+  border-radius: 2px;
+  margin-bottom: 8px;
+}
+
+.btn-green:hover {
+  background-color: rgb(64, 128, 64);
+}
+
+.padding-bottom-2 {
+  padding-bottom: 16px;
+}
+
+.link-big {
+  font-size: 44px;
+  letter-spacing: 16px;
+}
+
+.link-big:hover {
+  color: rgb(64, 128, 64);
+}
